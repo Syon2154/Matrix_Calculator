@@ -1,0 +1,16 @@
+c:\users\андрей\documents\visual studio 2015\Projects\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\bin\Debug\Calc_for_Matrix(CourseWork).exe.config
+c:\users\андрей\documents\visual studio 2015\Projects\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix_CourseWork_.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2015\Projects\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix(CourseWork).csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2015\Projects\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\bin\Debug\Calc_for_Matrix(CourseWork).exe
+c:\users\андрей\documents\visual studio 2015\Projects\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\bin\Debug\Calc_for_Matrix(CourseWork).pdb
+c:\users\андрей\documents\visual studio 2015\Projects\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix.Form1.resources
+c:\users\андрей\documents\visual studio 2015\Projects\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix(CourseWork).exe
+c:\users\андрей\documents\visual studio 2015\Projects\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix(CourseWork).pdb
+H:\University\2 КУРС\2 СЕМЕСТР\Курсовые работы\ООП С#\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\bin\Debug\Calc_for_Matrix(CourseWork).exe.config
+H:\University\2 КУРС\2 СЕМЕСТР\Курсовые работы\ООП С#\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix(CourseWork).exe
+H:\University\2 КУРС\2 СЕМЕСТР\Курсовые работы\ООП С#\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix(CourseWork).pdb
+H:\University\2 КУРС\2 СЕМЕСТР\Курсовые работы\ООП С#\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\bin\Debug\Calc_for_Matrix(CourseWork).exe
+H:\University\2 КУРС\2 СЕМЕСТР\Курсовые работы\ООП С#\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\bin\Debug\Calc_for_Matrix(CourseWork).pdb
+H:\University\2 КУРС\2 СЕМЕСТР\Курсовые работы\ООП С#\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix.Form1.resources
+H:\University\2 КУРС\2 СЕМЕСТР\Курсовые работы\ООП С#\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix_CourseWork_.Properties.Resources.resources
+H:\University\2 КУРС\2 СЕМЕСТР\Курсовые работы\ООП С#\Calc_for_Matrix(CourseWork)\Calc_for_Matrix(CourseWork)\obj\Debug\Calc_for_Matrix(CourseWork).csproj.GenerateResource.Cache
